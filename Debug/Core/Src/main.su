@@ -1,0 +1,14 @@
+main.c:15:13:checkConnectionStatus	4	static
+main.c:21:13:checkPropulsionStatus	4	static
+main.c:27:13:checkBrakingStatus	4	static
+main.c:33:13:activateAcceleration	8	static
+main.c:40:13:activateDeceleration	8	static
+main.c:47:13:sendSpeed	8	static
+main.c:53:13:sendPower	8	static
+main.c:59:13:sendBattery	8	static
+main.c:65:13:fail	8	static
+main.c:74:5:main	16	static
+main.c:113:6:SystemClock_Config	88	static
+main.c:153:13:MX_USART2_UART_Init	8	static
+main.c:174:13:MX_GPIO_Init	40	static
+main.c:198:6:Error_Handler	4	static,ignoring_inline_asm
